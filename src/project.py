@@ -64,10 +64,4 @@ counter()
 
 label()
 
-
-
-
-
 print(f" {(time.time() - start_time)} seconds")
-
-
