@@ -1,3 +1,7 @@
+import time
+
+start_time = time.time()
+
 def counter():
 
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -55,13 +59,9 @@ def label():
         for i in labels:
             print(f"{i},")
 
+
 counter()
 
 label()
 
-
-
-
-
-
-
+print(f" {(time.time() - start_time)} seconds")
