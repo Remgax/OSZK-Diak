@@ -1,0 +1,916 @@
+000 01193nema 22002531i 4500
+001 000002536787
+005 20201214121257.0
+007 ajocanza
+008 041207s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aVerőce vármegyekközigazgatási térképf1912
+245 10 aVerőcze vármegye földadókataszteri beosztásának átnézeti vázlata
+246 11 aNacrt zemljarinsko-katastralnog razdieljenja�zupanije Virovitǐcka
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. k. Állami Nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;cegyenként 68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.887 arch)
+651  4 aVerőce vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.887   qVászonra vonva, a szelvények összeillesztveA@   A736  B4168417F              STM 2.887   
+852    aB1x****mTM 2.887 arch   A@   17@6  B6042048F              STM 2.887 ARCH   
+
+000 01222nema 22002651i 4500
+001 000002536902
+005 20201214111333.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aSomogy vármegyekközigazgatási térképf1912
+245 10 aSomogy vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;cegyenként 68,5x94,2 cm
+505    aTelepülések nagyság szerint jellel, névvel
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.936 arch)
+651  4 aSomogy vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.936   qVászonra vonva, a szelvények összeillesztveA@   A736  B4168841F              STM 2.936   
+852    aB1x****mTM 2.936 arch   A@   17@6  B6045215F              STM 2.936 ARCH   
+
+000 01324nema 22002771i 4500
+001 000002536906
+005 20201214112234.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aSzolnok-Doboka vármegyekközigazgatási térképf1912
+245 10 aSzolnok-Doboka vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. k. állami nyomda)
+300    a1 térkl. :bszínes ;c70x96 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. ügyosztálya (OSZK Térképtár, TM 2.939 arch)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.939)
+651  4 aSzolnok-Doboka vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.939   A@   A736  B4168852F              STM 2.939   
+852    aB1x****mTM 2.939:2   qVászonra vonvaA@   A7@6  B6045332F              STM 2.939:2   
+852    aB1x****mTM 2.939 arch   A@   17@6  B6045334F              STM 2.939 ARCH   
+
+000 01128nema 22002531i 4500
+001 000002536907
+005 20201214112528.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aTorda-Aranyos vármegyekközigazgatási térképf1912
+245 10 aTorda-Aranyos vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,3x97,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.940 arch)
+651  4 aTorda-Aranyos vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.940   qVászonra vonvaA@   A736  B4168853F              STM 2.940   
+852    aB1x****mTM 2.940 arch   A@   17@6  B6045344F              STM 2.940 ARCH   
+
+000 01315nema 22002771i 4500
+001 000002536908
+005 20201214120919.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aUdvarhely vármegyekközigazgatási térképf1912
+245 10 aUdvarhely vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,2 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.941 arch)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.941)
+651  4 aUdvarhely vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.941   A@   A736  B4168855F              STM 2.941   
+852    aB1x****mTM 2.941:2   qVászonra vonvaA@   A7@6  B6045419F              STM 2.941:2   
+852    aB1x****mTM 2.941 arch   A@   17@6  B6045420F              STM 2.941 ARCH   
+
+000 01104nema 22002531i 4500
+001 000002536926
+005 20201214112400.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aTolna vármegyekközigazgatási térképf1912
+245 10 aTolna vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,7x89,2 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.953 arch)
+651  4 aTolna vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.953   qVászonra vonvaA@   A736  B4168880F              STM 2.953   
+852    aB1x****mTM 2.953 arch   A@   17@6  B6047170F              STM 2.953 ARCH   
+
+000 01123nema 22002531i 4500
+001 000002536928
+005 20201211142609.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aAlsó-Fehér vármegyekközigazgatási térképf1912
+245 10 aAlsó-Fehér vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.954 arch)
+651  4 aAlsó-Fehér vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.954   qVászonra vonvaA@   A736  B4168883F              STM 2.954   
+852    aB1x****mTM 2.954 arch   A@   17@6  B6047351F              STM 2.954 ARCH   
+
+000 01396nema 22002771i 4500
+001 000002536942
+005 20201214121454.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aZala vármegyekközigazgatási térképf1912
+245 10 aZala vármegye földadókataszteri beosztásának átnézeti vázlata /c[készítette és kiad. Magyar Földmérés]
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;cegyenként 94x68,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.959)
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.959 arch)
+651  4 aZala vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.959   A@   A736  B4168909F              STM 2.959   
+852    aB1x****mTM 2.959:2   qVászonra vonva, a szelvények összeillesztveA@   A7@6  B6047903F              STM 2.959:2   
+852    aB1x****mTM 2.959 arch   A@   17@6  B6047904F              STM 2.959 ARCH   
+
+000 01139nema 22002531i 4500
+001 000002536949
+005 20201211150006.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aBeszterce-Naszód vármegyekközigazgatási térképf1912
+245 10 aBesztercze-Naszód vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    aBudapest :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.963 arch)
+651  4 aBeszterce-Naszód vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.963   qVászonra vonvaA@   A736  B4168919F              STM 2.963   
+852    aB1x****mTM 2.963 arch   A@   17@6  B6048678F              STM 2.963 ARCH   
+
+000 01355nema 22002771i 4500
+001 000002536951
+005 20201211151306.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aBrassó vármegyekközigazgatási térképf1912
+245 10 aBrassó vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c63x84 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.964)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.964 arch)
+651  4 aBrassó vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.964   qBefejezetlen színmagyarázat és engedélyszámA@   A736  B4168921F              STM 2.964   
+852    aB1x****mTM 2.964:2   qVászonra vonvaA@   A7@6  B6048834F              STM 2.964:2   
+852    aB1x****mTM 2.964 arch   A@   17@6  B6048835F              STM 2.964 ARCH   
+
+000 01105nema 22002531i 4500
+001 000002536953
+005 20201214091255.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aFejér vármegyekközigazgatási térképf1912
+245 10 aFejér vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c70,8x94 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.965 arch)
+651  4 aFejér vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.965   qVászonra vonvaA@   A736  B4168923F              STM 2.965   
+852    aB1x****mTM 2.965 arch   A@   17@6  B6048856F              STM 2.965 ARCH   
+
+000 01006nema 22002411i 4500
+001 000002536959
+005 20201211142636.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aAbaúj-Torna vármegyekközigazgatási térképf1912
+245 10 aAbauj-Torna vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    aBudapest :b[Magyar Földmérés],c1912e(BudapestfM. k. Államnyomda)
+300    a1 térkl. :bszínes ;c68,5x84 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.968 arch)
+651  4 aAbaúj-Torna vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.968   qVászonra vonvaA@   A736  B4168929F              STM 2.968   
+
+000 01102nema 22002531i 4500
+001 000002536962
+005 20201211145038.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aÁrva vármegyekközigazgatási térképf1912
+245 10 aÁrva vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    aBudapest :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,8x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.969 arch)
+651  4 aÁrva vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.969   qVászonra vonvaA@   A736  B4168932F              STM 2.969   
+852    aB1x****mTM 2.969 arch   A@   17@6  B6049428F              STM 2.969 ARCH   
+
+000 01103nema 22002531i 4500
+001 000002536964
+005 20201211150157.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aBorsod vármegyekközigazgatási térképf1912
+245 10 aBorsod vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    aBudapest :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c84x68,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.970 arch)
+651  4 aBorsod vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.970   qVászonra vonvaA@   A736  B4168933F              STM 2.970   
+852    aB1x****mTM 2.970 arch   A@   17@6  B6049608F              STM 2.970 ARCH   
+
+000 01306nema 22002771i 4500
+001 000002536970
+005 20201214094953.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aLiptó vármegyekközigazgatási térképf1912
+245 10 aLiptó vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.972 arch)
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.972)
+651  4 aLiptó vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.972   A@   A736  B4168939F              STM 2.972   
+852    aB1x****mTM 2.972:2   qVászonra vonvaA@   A7@6  B6049795F              STM 2.972:2   
+852    aB1x****mTM 2.972 arch   A@   17@6  B6049796F              STM 2.972 ARCH   
+
+000 01330nema 22002771i 4500
+001 000002537013
+005 20201214094325.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aKis-Küküllő vármegyekközigazgatási térképf1912
+245 10 aKis-Küküllő vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.981 arch)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.981)
+651  4 aKis-Küküllő vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.981   A@   A736  B4168990F              STM 2.981   
+852    aB1x****mTM 2.981:2   qVászonra vonvaA@   A7@6  B6050827F              STM 2.981:2   
+852    aB1x****mTM 2.981 arch   A@   17@6  B6050830F              STM 2.981 ARCH   
+
+000 01159nema 22002531i 4500
+001 000002537016
+005 20201214094516.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aKolozs vármegyekközigazgatási térképf1912
+245 10 aKolozs vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;cegyenként 68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.982 arch)
+651  4 aKolozs vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.982   qVászonra vonva, a szelvények összeillesztveA@   A736  B4168993F              STM 2.982   
+852    aB1x****mTM 2.982 arch   A@   17@6  B6051126F              STM 2.982 ARCH   
+
+000 01321nema 22002771i 4500
+001 000002537018
+005 20201214102241.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aMaros-Torda vármegyekközigazgatási térképf1912
+245 10 aMaros-Torda vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,8x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.983 arch)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.983)
+651  4 aMaros-Torda vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.983   A@   A736  B4169003F              STM 2.983   
+852    aB1x****mTM 2.983:2   qVászonra vonvaA@   A7@6  B6051205F              STM 2.983:2   
+852    aB1x****mTM 2.983 arch   A@   17@6  B6051207F              STM 2.983 ARCH   
+
+000 01333nema 22002771i 4500
+001 000002537021
+005 20201214110238.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aNagy-Küküllő vármegyekközigazgatási térképf1912
+245 10 aNagy-Küküllő vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,8x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.984 arch)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.984)
+651  4 aNagy-Küküllő vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.984   A@   A736  B4169004F              STM 2.984   
+852    aB1x****mTM 2.984:2   qVászonra vonvaA@   A7@6  B6051291F              STM 2.984:2   
+852    aB1x****mTM 2.984 arch   A@   17@6  B6051293F              STM 2.984 ARCH   
+
+000 01265nema 22002651i 4500
+001 000002537024
+005 20201214093944.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aHunyad vármegyekközigazgatási térképf1912
+245 10 aHunyad vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c94,5x70,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.986 arch)
+651  4 aHunyad vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.986   qBefejezetlen: a színmagyarázat és az engedélyszám hiányzikA@   A736  B4169012F              STM 2.986   
+852    aB1x****mTM 2.986:2   qVászonra vonvaA@   A7@6  B6051417F              STM 2.986:2   
+852    aB1x****mTM 2.986 arch   A@   17@6  B6051418F              STM 2.986 ARCH   
+
+000 01321nema 22002771i 4500
+001 000002537028
+005 20201214092336.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aHáromszék vármegyekközigazgatási térképf1912
+245 10 aHáromszék vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.987)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.987 arch)
+651  4 aHáromszék vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.987   A@   A736  B4169016F              STM 2.987   
+852    aB1x****mTM 2.987:2   qVászonra vonvaA@   A7@6  B6051501F              STM 2.987:2   
+852    aB1x****mTM 2.987 arch   A@   17@6  B6051502F              STM 2.987 ARCH   
+
+000 01364nema 22002771i 4500
+001 000002537030
+005 20201214091540.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aFogaras vármegyekközigazgatási térképf1912
+245 10 aFogaras vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.988)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.988 arch)
+651  4 aFogaras vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.988   qA színmagyarázat és az engedélyszám befejezetlenA@   A736  B4169017F              STM 2.988   
+852    aB1x****mTM 2.988:2   qVászonra vonvaA@   A7@6  B6051658F              STM 2.988:2   
+852    aB1x****mTM 2.988 arch   A@   17@6  B6051659F              STM 2.988 ARCH   
+
+000 01303nema 22002771i 4500
+001 000002537032
+005 20201211155735.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aCsík vármegyekközigazgatási térképf1912
+245 10 aCsík vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,2 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 2.989)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.989 arch)
+651  4 aCsík vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 2.989   A@   A736  B4169018F              STM 2.989   
+852    aB1x****mTM 2.989:2   qVászonra vonvaA@   A7@6  B6051733F              STM 2.989:2   
+852    aB1x****mTM 2.989 arch   A@   17@6  B6051734F              STM 2.989 ARCH   
+
+000 01294nema 22002651i 4500
+001 000002537090
+005 20201214110713.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aPest-Pilis-Solt-Kiskun vármegyekközigazgatási térképf1912
+245 10 aPest-Pilis-Solt-Kiskun vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;c68,5x94,5, 71,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.003)
+651  4 aPest-Pilis-Solt-Kiskun vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.003   A@   A736  B4169157F              STM 3.003   
+852    aB1x****mTM 3.003:2   qVászonra vonva, a szelvények összeillesztveA@   A7@6  B6051881F              STM 3.003:2   
+852    aB1x****mTM 3.003 arch   A@   17@6  B6051882F              STM 3.003 ARCH   
+
+000 01308nema 22002771i 4500
+001 000002537099
+005 20201214111955.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aSzeben vármegyekközigazgatási térképf1912
+245 10 aSzeben vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.007:2)
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 3.007 arch)
+651  4 aSzeben vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.007   qVászonra vonvaA@   A736  B4169175F              STM 3.007   
+852    aB1x****mTM 3.007:2   A@   A7@6  B6052145F              STM 3.007:2   
+852    aB1x****mTM 3.007 arch   A@   17@6  B6052148F              STM 3.007 ARCH   
+
+000 01297nema 22002651i 4500
+001 000002537106
+005 20201214094231.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aJász-Nagykun-Szolnok vármegyekközigazgatási térképf1912
+245 10 aJász-Nagykun-Szolnok vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c72x94,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.010 arch)
+651  4 aJász-Nagykun-Szolnok vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.010   qVászonra vonvaA@   A736  B4169199F              STM 3.010   
+852    aB1x****mTM 3.010:2   qSzínmagyarázata és az engedélyszáma befejezetlenA@   A7@6  B6052279F              STM 3.010:2   
+852    aB1x****mTM 3.010 arch   A@   17@6  B6052280F              STM 3.010 ARCH   
+
+000 00891nema 22002291i 4500
+001 000002537119
+005 20201214110132.0
+007 ajocanza
+008 041208s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aMoson vármegyekközigazgatási térképf1911
+245 10 aMoson vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x84 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+651  4 aMoson vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.017   A@   A736  B4169224F              STM 3.017   
+
+000 01315nema 22002771i 4500
+001 000002537184
+005 20201214121339.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aVeszprém vármegyekközigazgatási térképf1912
+245 10 aVeszprém vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    aBudapest :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 3.036:2)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.036 arch)
+651  4 aVeszprém vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.036   qVászonra vonvaA@   A736  B4169286F              STM 3.036   
+852    aB1x****mTM 3.036:2   A@   A7@6  B6053157F              STM 3.036:2   
+852    aB1x****mTM 3.036 arch   A@   17@6  B6053165F              STM 3.036 ARCH   
+
+000 01303nema 22002771i 4500
+001 000002537232
+005 20201214092414.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aHeves vármegyekközigazgatási térképf1912
+245 10 aHeves vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.052:2)
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 3.052 arch)
+651  4 aHeves vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aMagyar Királyi Állami Nyomda (Budapest)4készítő
+850    aB1
+852    aB1x****mTM 3.052   qVászonra vonvaA@   A736  B4169333F              STM 3.052   
+852    aB1x****mTM 3.052:2   A@   A7@6  B6054524F              STM 3.052:2   
+852    aB1x****mTM 3.052 arch   A@   17@6  B6054526F              STM 3.052 ARCH   
+
+000 01431nema 22002891i 4500
+001 000002537256
+005 20201214121419.0
+007 ajocanza
+008 041208s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aZágráb vármegyekközigazgatási térképf1912
+245 10 aZágráb vármegye földadókataszteri beosztásának átnézeti vázlata
+246 11 aNacrt zemljarinsko-katastralnog razdieljenja�zupanie Zagrebǎcke
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;c68,5x95,2, 68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.059 arch)
+651  4 aZágráb vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.059   A@   A736  B4169360F              STM 3.059   
+852    aB1x****mTM 3.059:2   A@   A7@6  B6055028F              STM 3.059:2   
+852    aB1x****mTM 3.059:3   qVászonra vonva, a szelvények összeillesztveA@   A7@6  B6055036F              STM 3.059:3   
+852    aB1x****mTM 3.059 arch   A@   17@6  B6055037F              STM 3.059 ARCH   
+
+000 01305nema 22002771i 4500
+001 000002537386
+005 20201214092156.0
+007 ajocanza
+008 041209s1912    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aHajdú vármegyekközigazgatási térképf1912
+245 10 aHajdu vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1912e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,5x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+561    aProven.: M. kir. Pénzügyminisztérium XVIII. Ügyosztálya (OSZK Térképtár, TM 3.075)
+561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 3.075 arch)
+651  4 aHajdú vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.075   A@   A736  B4169503F              STM 3.075   
+852    aB1x****mTM 3.075:2   qVászonra vonvaA@   A7@6  B6057864F              STM 3.075:2   
+852    aB1x****mTM 3.075 arch   A@   17@6  B6057868F              STM 3.075 ARCH   
+
+000 00942nema 22002411i 4500
+001 000002537412
+005 20201214120225.0
+007 ajocanza
+008 041209s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aTuróc vármegyekközigazgatási térképf1911
+245 10 aTurócz vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c62,8x78,7 cm
+505    aTelepülések jellel, névvel
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aTuróc vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.084   A@   A736  B4169525F              STM 3.084   
+
+000 00914nema 22002291i 4500
+001 000002537479
+005 20201214094625.0
+007 ajocanza
+008 041209s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aKolozs vármegyekközigazgatási térképf1911
+245 10 aKolozs vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;cegyenként 68x94,5 cm
+505    aBecslőjárások határai és székhelyei feltüntetve
+505    aUtak minőség szerint jelölve
+651  4 aKolozs vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 3.104   A@   A736  B4169596F              STM 3.104   
+
+000 00939nema 22002411i 4500
+001 000002567135
+005 20201211150437.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aBorsod vármegyekközigazgatási térképf1911
+245 10 aBorsod vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c84x68 cm
+505    aTelepülések jellel, névvel
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aBorsod vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.001   A@   A736  B4251343F              STM 18.001   
+
+000 00896nema 2200229 i 4500
+001 000002567138
+005 20201211151527.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aCsanád vármegyekközigazgatási térképf1911
+245 10 aCsanád vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c63x89 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aCsanád vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.002   A@   A736  B4251345F              STM 18.002   
+
+000 00935nema 2200229 i 4500
+001 000002567140
+005 20201214091636.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aGömör és Kishont vármegyekközigazgatási térképf1911
+245 10 aGömör és Kis-Hont vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c69x83,8 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aGömör és Kishont vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.003   A@   A736  B4251348F              STM 18.003   
+
+000 00892nema 2200229 i 4500
+001 000002567141
+005 20201214092014.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aGyőr vármegyekközigazgatási térképf1911
+245 10 aGyőr vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68x83,8 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aGyőr vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.004   A@   A736  B4251349F              STM 18.004   
+
+000 00897nema 2200229 i 4500
+001 000002567144
+005 20201214091331.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aFejér vármegyekközigazgatási térképf1911
+245 10 aFejér vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c70,5x94,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aFejér vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.005   A@   A736  B4251350F              STM 18.005   
+
+000 00907nema 2200229 i 4500
+001 000002567147
+005 20201214111440.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aSomogy vármegyekközigazgatási térképf1911
+245 10 aSomogy vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térk. (2 szelv.) :bszínes ;c68,2x94,2 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aSomogy vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.006   A@   A736  B4251351F              STM 18.006   
+
+000 00903nema 2200229 i 4500
+001 000002567148
+005 20201214111823.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aSzabolcs vármegyekközigazgatási térképf1911
+245 10 aSzabolcs vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c94,5x69,7 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aSzabolcs vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.007   A@   A736  B4251352F              STM 18.007   
+
+000 00894nema 2200229 i 4500
+001 000002567150
+005 20201214112435.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aTolna vármegyekközigazgatási térképf1911
+245 10 aTolna vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68,2x89,2 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aTolna vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.008   A@   A736  B4251362F              STM 18.008   
+
+000 00980nema 2200241 i 4500
+001 000002567157
+005 20201214112606.0
+007 ajocanza
+008 050620q1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aTorda-Aranyos vármegyekközigazgatási térképf1911
+245 10 aTorda-Aranyos vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c[ca 1911]e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c68x97 cm
+500    aKiadás éve a sorozat többi tagja alapján
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aTorda-Aranyos vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.009   A@   A736  B4251364F              STM 18.009   
+
+000 00888nema 2200229 i 4500
+001 000002567158
+005 20201214121225.0
+007 ajocanza
+008 050620s1911    hu        a     0   hun d
+040    aOSZKbhuncOSZK
+130 00 aVas vármegyekközigazgatási térképf1911
+245 10 aVas vármegye földadókataszteri beosztásának átnézeti vázlata
+255    a1:144 000
+260    a[Budapest] :b[Országos Kataszteri Felmérés],c1911e(BudapestfM. kir. állami nyomda)
+300    a1 térkl. :bszínes ;c70,5x94,5 cm
+505    aUtak minőség szerint jelölve
+505    aBecslőjárások határai és székhelyei feltüntetve
+651  4 aVas vármegye
+655  7 aközigazgatási térkép2doktip
+710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
+850    aB1
+852    aB1x****mTM 18.010   A@   A736  B4251367F              STM 18.010   
+
