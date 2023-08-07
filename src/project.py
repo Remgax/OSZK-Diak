@@ -7,7 +7,12 @@ def record():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
     
         text = file.read()
-        records = text.count("\n001")
+
+        records = 0
+        
+        for i in text.split("\n"):
+            if i.startswith('001'):
+                records += 1
 
         print(f"\nRekordok száma: {records}")
 
