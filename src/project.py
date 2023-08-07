@@ -4,19 +4,36 @@ def counter():
     
         text = file.read()
 
-        records = text.count("\n001")
+        records = 0
+        
+        for i in text.split('\n'):
+            if i.startswith('001'):
+                records += 1 
 
         print("Rekord azonosítók:", records)
 
-        record_heads = text.count("\n000")
-        
+        record_heads = 0
+
+        for i in text.split('\n'):
+            if i.startswith('000'):
+                record_heads += 1
+         
         print("Rekord fejek:", record_heads)
 
-        location = text.count("\n850")
+        location = 0
+
+        for i in text.split("\n"):
+            if i.startswith('850'):
+                location += 1
+
         
         print("Lelőhely:",location)
 
-        storage_label = text.count("852")
+        storage_label = 0
+
+        for i in text.split("\n"):
+            if i.startswith('852'):
+                storage_label += 1
 
         print("Raktári jelzet:", storage_label)
 
@@ -32,7 +49,11 @@ def label():
                 labels.append(i)
 
         labels.sort()
-        print("Jelzetek:", labels)
+
+        print("\nAzonosítók:")
+
+        for i in labels:
+            print(f"{i},")
 
 counter()
 
