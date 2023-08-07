@@ -14,9 +14,9 @@ def counter():
 
         location = text.count("\n850")
         
-        print("Lelőhej:",location)
+        print("Lelőhely:",location)
 
-        storage_label = text.count("852$m")
+        storage_label = text.count("852")
 
         print("Raktári jelzet:", storage_label)
 
