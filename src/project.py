@@ -66,24 +66,38 @@ def date():
 
         text = file.read()
 
+        date_sorted = []
+
         for i in text.split('\n'):
             if i.startswith('005'):
                 i = i.replace('005', '').replace('.0', '')
-                year = i[0:4]
-                month = i[4:6]
-                day = i[6:8]
-                hour = i[8:10]
-                minute = i[10:12]
-                second = i[12:14]
+                date_sorted.append(i)
+                date_sorted.sort()
 
+                year = i[1:5]
+                month = i[5:7]
+                day = i[7:9]
+                hour = i[9:11]
+                minute = i[11:13]
+                second = i[13:15]
 
+                print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
+            
+        print("\nIdőrendben:")
+        for i in date_sorted:
+            
+            year = i[1:5]
+            month = i[5:7]
+            day = i[7:9]
+            hour = i[9:11]
+            minute = i[11:13]
+            second = i[13:15]
 
-
-                print(f"Dátum: {i}")
-
+            print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
 date()
 
-print(f" {(time.time() - start_time)} seconds")
+margin = 29*"-"
 
+print(f"\n{margin}\n{(time.time() - start_time)} seconds\n{margin}\n")
 
 
