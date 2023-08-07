@@ -1,21 +1,42 @@
+import time
 
-with open('source/output.txt', "r", encoding= "utf-8") as file:
+start_time = time.time()
+
+
+def record():
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
     
-    lines = file.readlines()
+        text = file.read()
+        records = text.count("\n001")
 
-    count = 0
-
-    for i in lines:
-        count += 1
-
-    print("Sorok száma:",count)
+        print(f"\nRekordok száma: {records}")
 
 
-with open('source/output.txt', "r", encoding= "utf-8") as file:
-   
-    text = file.read()
-    records = text.count("\n001")
+def record_counter():
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
+        lines = file.readlines()
 
-    print("Rekordok:", records)
+        label = []
+
+        for i in lines:
+            if i.count("001 ") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
+                i = int(i.replace("001 ", ""))
+                label.append(i)
+
+        label.sort()
+
+    print(f"\nAzonosítók:")
+    for i in label:
+        print(f"{i},")
+
+
+record()
+
+record_counter()
+
+
+print(f"\n[ {(time.time() - start_time)} seconds ]\n")
+
+
 
 
