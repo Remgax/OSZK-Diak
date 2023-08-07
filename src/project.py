@@ -60,6 +60,11 @@ def label():
             print(f"{i},")
 
 
+counter()
+
+label()
+
+
 
 
 
