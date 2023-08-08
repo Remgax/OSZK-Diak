@@ -2,14 +2,32 @@ import time
 
 start_time = time.time()
 
-def counter():
 
-    with open('source/output.txt', "r", encoding= "utf-8") as file:
+def datas(source):
+    source = str(source)
+    try:
+        file =  open(source, "r", encoding= "utf-8")
+    
+    except Exception as e:
+        file =  open("source/output.txt", "r", encoding= "utf-8")
+        if source != "":
+            print(f"Hiba: {e}")
+            del file
+
+        print("\nForrás: Alapértelmezet forrás")
+        
+
+    
+    
+    
+        
+
+    try:
     
         text = file.read()
 
         records = 0
-        
+            
         for i in text.split('\n'):
             if i.startswith('001'):
                 records += 1 
@@ -21,7 +39,7 @@ def counter():
         for i in text.split('\n'):
             if i.startswith('000'):
                 record_heads += 1
-         
+            
         print("Rekord fejek:", record_heads)
 
         location = 0
@@ -30,7 +48,7 @@ def counter():
             if i.startswith('850'):
                 location += 1
 
-        
+            
         print("Lelőhely:",location)
 
         storage_label = 0
@@ -40,6 +58,12 @@ def counter():
                 storage_label += 1
 
         print("Raktári jelzet:", storage_label)
+
+    except Exception as e:
+        if FileExistsError == False:
+            print(f"Hiba: {e}")
+
+
 
 def label():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -92,9 +116,25 @@ def date():
             minute = i[11:13]
             second = i[13:15]
 
+      
             print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
-date()
+
+
+
+def source_in():
+    source = input("\nForrás:\n")
+    datas(source)
+
+
+
+source_in()
+
+
+
+
+
+
+
 
 margin = 29*"-"
-
 print(f"\n{margin}\n{(time.time() - start_time)} seconds\n{margin}\n")
