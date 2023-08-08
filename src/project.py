@@ -54,10 +54,10 @@ with open('source/output.txt', "r", encoding= "utf-8") as file:
     for a in records:
         file_d = open("source/datalist.txt", "a", encoding = "utf-8")
         try:
-            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}, {storage_label[count][-2]}\n\n")
+            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-2]}\n\n")
             print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}, {storage_label[count][-2]}\n\n")
         except:
-            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}\n\n")
+            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}\n\n")
             print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}\n\n")
         count += 1
 
