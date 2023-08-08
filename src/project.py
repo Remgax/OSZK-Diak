@@ -59,7 +59,6 @@ def label():
         for i in labels:
             print(f"{i},")
 
-
     
 def date():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -83,7 +82,7 @@ def date():
 
                 print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
             
-        print("\nIdőrendben:")
+        print("\nIdőrendben:\n")
         for i in date_sorted:
             
             year = i[1:5]
@@ -99,5 +98,3 @@ date()
 margin = 29*"-"
 
 print(f"\n{margin}\n{(time.time() - start_time)} seconds\n{margin}\n")
-
-
