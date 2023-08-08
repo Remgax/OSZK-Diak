@@ -77,7 +77,7 @@
 300    a1 térkl. :bszínes ;c68,3x97,5 cm
 505    aBecslőjárások határai és székhelyei feltüntetve
 505    aUtak minőség szerint jelölve
-561    aProven.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.940 arch)
+561    aProvenf.: M. kir. Állami Nyomda Térképtára (OSZK Térképtár, TM 2.940 arch)
 651  4 aTorda-Aranyos vármegye
 655  7 aközigazgatási térkép2doktip
 710 2  aOrszágos Kataszteri Felmérésd(1894-1918)4készítő
