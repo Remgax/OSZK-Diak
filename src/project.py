@@ -197,9 +197,3 @@ elif minden == 4:
     d()
 elif minden == 5:
     e()
-
-
-
-
-
-
