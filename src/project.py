@@ -1,14 +1,11 @@
 #KEZDÉS
 
-a = input("Adjon meg egy számot 1-6-ig:\n\n")
-
-
-
+minden = input("Adjon meg egy számot 1-6-ig:\n\n")
 
 # 1 ----------------------------------------------------------------
 def a():
-        print("\n\n",28*"-")
-        with open('source/output.txt', "r", encoding= "utf-8") as file:
+    print("\n\n",28*"-")
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
             text = file.read()
 
             record_heads = 0
@@ -54,7 +51,7 @@ def b():
 
     # 3 ----------------------------------------------------------------
 
-def b():
+def c():
         print("\n\n",28*"-")
 
         with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -76,7 +73,7 @@ def b():
 
 # 4 ----------------------------------------------------------------
 
-def c():
+def d():
     print("\n\n",28*"-")
 
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -144,7 +141,7 @@ def c():
 
 # 5 ----------------------------------------------------------------
 
-def d():
+def e():
         print("\n\n",28*"-")
 
         with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -189,7 +186,20 @@ def d():
 
 
 
-a()
-b()
-c()
-d()
+
+if minden == 1:
+    a()
+elif minden == 2:
+    b()
+elif minden == 3:
+    c()
+elif minden == 4:
+    d()
+elif minden == 5:
+    e()
+
+
+
+
+
+
