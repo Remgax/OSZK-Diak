@@ -16,12 +16,7 @@ def datas(source):
 
         print("\nForrás: Alapértelmezet forrás")
         
-
-    
-    
-    
         
-
     try:
     
         text = file.read()
