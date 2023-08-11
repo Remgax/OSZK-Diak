@@ -1,53 +1,52 @@
 # 1 ----------------------------------------------------------------
-with open('source/output.txt', "r", encoding= "utf-8") as file:
-  
-    text = file.read()
-    records = text.count("\n001")
 
-    print("Rekordok száma:", records)
+def counter():
 
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
+        text = file.read()
+
+        record_heads = 0
+
+        for i in text.split('\n'):
+            if i.startswith('000'):
+                record_heads += 1
+         
+        print("Rekord fejek:", record_heads)
+
+        location = 0
+
+        for i in text.split("\n"):
+            if i.startswith('850'):
+                location += 1
+
+        
+        print("Lelőhely:",location)
+
+        storage_label = 0
+
+        for i in text.split("\n"):
+            if i.startswith('852'):
+                storage_label += 1
+
+        print("Raktári jelzet:", storage_label, "\n---------------------------------\n")
+
+counter()
 # 2 ----------------------------------------------------------------
 
-def label():
-    with open('source/output.txt', "r", encoding= "utf-8") as file:
-        lines = file.readlines()
+with open('source/output.txt', "r", encoding= "utf-8") as file:
+        text = file.read()
 
-        labels = []
+        records = 0
+        
+        for i in text.split('\n'):
+            if i.startswith('001'):
+                records += 1 
 
-        for i in lines:
-            if i.count("001") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
-                i = int(i.replace("001 ", ""))
-                labels.append(i)
-
-        labels.sort()
-
-        print("\nAzonosítók:")
-
-        for i in labels:
-            print(f"{i},")
-
-label()
+        print("Rekord azonosítók:", records, "\n---------------------------------\n")
 
 # 3 ----------------------------------------------------------------
 
-import time
 
-start_time = time.time()
-
-def label():
-    with open('source/output.txt', "r", encoding= "utf-8") as file:
-        lines = file.readlines()
-
-        labels = []
-
-        for i in lines:
-            if i.count("001") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
-                i = int(i.replace("001 ", ""))
-                labels.append(i)
-
-        labels.sort()
-
-label()
 
 # 4 ----------------------------------------------------------------
 
