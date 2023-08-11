@@ -1,6 +1,6 @@
 # 1 ----------------------------------------------------------------
 
-print("\n\n---------------------------------")
+print("\n\n",28*"-")
 
 def counter():
 
@@ -35,7 +35,7 @@ def counter():
 counter()
 # 2 ----------------------------------------------------------------
 
-print("\n\n---------------------------------")
+print("\n\n",28*"-")
 
 with open('source/output.txt', "r", encoding= "utf-8") as file:
         text = file.read()
@@ -50,7 +50,7 @@ with open('source/output.txt', "r", encoding= "utf-8") as file:
 
 # 3 ----------------------------------------------------------------
 
-print("\n\n---------------------------------")
+print("\n\n",28*"-")
 
 def label():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -75,7 +75,7 @@ label()
 
 # 4 ----------------------------------------------------------------
 
-print("\n\n")
+print("\n\n",28*"-")
 
 with open('source/output.txt', "r", encoding= "utf-8") as file:
    
@@ -142,7 +142,7 @@ with open('source/output.txt', "r", encoding= "utf-8") as file:
 
 # 5 ----------------------------------------------------------------
 
-print("\n\n---------------------------------")
+print("\n\n",28*"-")
 
 def date():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -178,5 +178,3 @@ def date():
             print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
 
 date()
-
-margin = 29*"-"
