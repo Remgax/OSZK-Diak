@@ -1,10 +1,6 @@
-#KEZDÉS
-
-minden = input("Adjon meg egy számot 1-6-ig:\n\n")
 
 # 1 ----------------------------------------------------------------
 def a():
-    print("\n\n",28*"-")
     with open('source/output.txt', "r", encoding= "utf-8") as file:
             text = file.read()
 
@@ -36,8 +32,6 @@ def a():
     # 2 ----------------------------------------------------------------
 
 def b():
-    print("\n\n",28*"-")
-
     with open('source/output.txt', "r", encoding= "utf-8") as file:
             text = file.read()
 
@@ -52,9 +46,7 @@ def b():
     # 3 ----------------------------------------------------------------
 
 def c():
-        print("\n\n",28*"-")
-
-        with open('source/output.txt', "r", encoding= "utf-8") as file:
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
             lines = file.readlines()
 
             labels = []
@@ -74,8 +66,6 @@ def c():
 # 4 ----------------------------------------------------------------
 
 def d():
-    print("\n\n",28*"-")
-
     with open('source/output.txt', "r", encoding= "utf-8") as file:
     
         text = file.read()
@@ -142,8 +132,6 @@ def d():
 # 5 ----------------------------------------------------------------
 
 def e():
-        print("\n\n",28*"-")
-
         with open('source/output.txt', "r", encoding= "utf-8") as file:
 
             text = file.read()
@@ -184,16 +172,41 @@ def e():
 
 #ÚJRAKEZD
 
+y = int(input("Adjon meg egy számot 1-6-ig:\n\n"))
 
 
+def function():
 
-if minden == 1:
+
+    x = int(input("Adjon meg egy számot 1-6-ig:\n\n"))
+
+
+    if x == 1:
+        a()
+    elif x == 2:
+        b()
+    elif x == 3:
+        c()
+    elif x == 4:
+        d()
+    elif x == 5:
+        e()
+    elif x == 6:
+        print("Kilépés")
+    else:
+        function()
+
+if y == 1:
     a()
-elif minden == 2:
+elif y == 2:
     b()
-elif minden == 3:
+elif y == 3:
     c()
-elif minden == 4:
+elif y == 4:
     d()
-elif minden == 5:
+elif y == 5:
     e()
+elif y == 6:
+    print("Kilépés")
+else:
+    print(":(")
