@@ -1,162 +1,175 @@
+#KEZDÉS
+
+a = input("Adjon meg egy számot 1-6-ig:\n\n")
+
+
+
+
 # 1 ----------------------------------------------------------------
+def a():
+        print("\n\n",28*"-")
+        with open('source/output.txt', "r", encoding= "utf-8") as file:
+            text = file.read()
 
-print("\n\n",28*"-")
+            record_heads = 0
 
-def counter():
+            for i in text.split('\n'):
+                if i.startswith('000'):
+                    record_heads += 1
+            
+            print("Rekord fejek:", record_heads)
+
+            location = 0
+
+            for i in text.split("\n"):
+                if i.startswith('850'):
+                    location += 1
+
+            
+            print("Lelőhely:",location)
+
+            storage_label = 0
+
+            for i in text.split("\n"):
+                if i.startswith('852'):
+                    storage_label += 1
+
+            print("Raktári jelzet:", storage_label)
+
+    # 2 ----------------------------------------------------------------
+
+def b():
+    print("\n\n",28*"-")
 
     with open('source/output.txt', "r", encoding= "utf-8") as file:
-        text = file.read()
+            text = file.read()
 
-        record_heads = 0
+            records = 0
+            
+            for i in text.split('\n'):
+                if i.startswith('001'):
+                    records += 1 
 
-        for i in text.split('\n'):
-            if i.startswith('000'):
-                record_heads += 1
-         
-        print("Rekord fejek:", record_heads)
+            print("Rekord azonosítók:", records)
 
-        location = 0
+    # 3 ----------------------------------------------------------------
 
-        for i in text.split("\n"):
-            if i.startswith('850'):
-                location += 1
+def b():
+        print("\n\n",28*"-")
 
-        
-        print("Lelőhely:",location)
+        with open('source/output.txt', "r", encoding= "utf-8") as file:
+            lines = file.readlines()
 
-        storage_label = 0
+            labels = []
 
-        for i in text.split("\n"):
-            if i.startswith('852'):
-                storage_label += 1
+            for i in lines:
+                if i.count("001") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
+                    i = int(i.replace("001 ", ""))
+                    labels.append(i)
 
-        print("Raktári jelzet:", storage_label)
+            labels.sort()
 
-counter()
-# 2 ----------------------------------------------------------------
+            print("Azonosítók:")
 
-print("\n\n",28*"-")
-
-with open('source/output.txt', "r", encoding= "utf-8") as file:
-        text = file.read()
-
-        records = 0
-        
-        for i in text.split('\n'):
-            if i.startswith('001'):
-                records += 1 
-
-        print("Rekord azonosítók:", records)
-
-# 3 ----------------------------------------------------------------
-
-print("\n\n",28*"-")
-
-def label():
-    with open('source/output.txt', "r", encoding= "utf-8") as file:
-        lines = file.readlines()
-
-        labels = []
-
-        for i in lines:
-            if i.count("001") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
-                i = int(i.replace("001 ", ""))
-                labels.append(i)
-
-        labels.sort()
-
-        print("Azonosítók:")
-
-        for i in labels:
-            print(f"{i},")
-
-label()
-
+            for i in labels:
+                print(f"{i},")
 
 # 4 ----------------------------------------------------------------
 
-print("\n\n",28*"-")
+def c():
+    print("\n\n",28*"-")
 
-with open('source/output.txt', "r", encoding= "utf-8") as file:
-   
-    text = file.read()
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
+    
+        text = file.read()
 
-    records = []
-    storage_label = []
+        records = []
+        storage_label = []
 
-    storage_label0 = []
-
-
-    file_d = open("source/datalist.txt", "w")
-    file_d.write("")
-
-    for i in text.split('\n'):
-        if i.startswith ('001'):
-            i = int(i.replace('001', ''))
-            records.append(i)
-            file.close()
+        storage_label0 = []
 
 
-        elif i.startswith('852'):
-            for e in i.split('\n'):
-                e = e.replace("852", "")
-                e = e.split('m')
-                for f in e:
-                    f = f.split('  ')
-                    if f[0] == "":
-                        del f
-                    try:
-                        storage_label0.append(f[0])
-                        #print("Jelzet: ",f[0])                     
-                    except:
-                        pass
+        file_d = open("source/datalist.txt", "w")
+        file_d.write("")
 
-        elif i.startswith('000'):
-            storage_label0.append('###')
+        for i in text.split('\n'):
+            if i.startswith ('001'):
+                i = int(i.replace('001', ''))
+                records.append(i)
+                file.close()
 
 
-    group = []
+            elif i.startswith('852'):
+                for e in i.split('\n'):
+                    e = e.replace("852", "")
+                    e = e.split('m')
+                    for f in e:
+                        f = f.split('  ')
+                        if f[0] == "":
+                            del f
+                        try:
+                            storage_label0.append(f[0])
+                            #print("Jelzet: ",f[0])                     
+                        except:
+                            pass
 
-    for a in storage_label0:
-        if a == '###':
+            elif i.startswith('000'):
+                storage_label0.append('###')
+
+
+        group = []
+
+        for a in storage_label0:
+            if a == '###':
+                
+                group = []
+            else:
+                group.append(a)
             
-            group = []
-        else:
-            group.append(a)
-        
-        storage_label.append(group)
+            storage_label.append(group)
 
-    count = 0
+        count = 0
 
-    for a in records:
-        file_d = open("source/datalist.txt", "a", encoding = "utf-8")
-        try:
-            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-2]}\n\n")
-            print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}, {storage_label[count][-2]}\n\n")
-        except:
-            file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}\n\n")
-            print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}\n\n")
-        count += 1
+        for a in records:
+            file_d = open("source/datalist.txt", "a", encoding = "utf-8")
+            try:
+                file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-2]}\n\n")
+                print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}, {storage_label[count][-2]}\n\n")
+            except:
+                file_d.write(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}\n\n")
+                print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}\n\n")
+            count += 1
 
 
 
 # 5 ----------------------------------------------------------------
 
-print("\n\n",28*"-")
+def d():
+        print("\n\n",28*"-")
 
-def date():
-    with open('source/output.txt', "r", encoding= "utf-8") as file:
+        with open('source/output.txt', "r", encoding= "utf-8") as file:
 
-        text = file.read()
+            text = file.read()
 
-        date_sorted = []
+            date_sorted = []
 
-        for i in text.split('\n'):
-            if i.startswith('005'):
-                i = i.replace('005', '').replace('.0', '')
-                date_sorted.append(i)
-                date_sorted.sort()
+            for i in text.split('\n'):
+                if i.startswith('005'):
+                    i = i.replace('005', '').replace('.0', '')
+                    date_sorted.append(i)
+                    date_sorted.sort()
 
+                    year = i[1:5]
+                    month = i[5:7]
+                    day = i[7:9]
+                    hour = i[9:11]
+                    minute = i[11:13]
+                    second = i[13:15]
+
+                
+            print("Időrendben:\n")
+            for i in date_sorted:
+                
                 year = i[1:5]
                 month = i[5:7]
                 day = i[7:9]
@@ -164,17 +177,19 @@ def date():
                 minute = i[11:13]
                 second = i[13:15]
 
-            
-        print("Időrendben:\n")
-        for i in date_sorted:
-            
-            year = i[1:5]
-            month = i[5:7]
-            day = i[7:9]
-            hour = i[9:11]
-            minute = i[11:13]
-            second = i[13:15]
+                print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
 
-            print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
+# 6 ----------------------------------------------------------------
 
-date()
+#KILÉPÉS
+
+# 7 ----------------------------------------------------------------
+
+#ÚJRAKEZD
+
+
+
+a()
+b()
+c()
+d()

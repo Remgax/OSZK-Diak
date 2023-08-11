@@ -124,3 +124,6 @@ Jelzet: TM 2.969, TM 2.969
 Azonosító: 2567157
 Jelzet: TM 2.969, TM 2.969
 
+Azonosító: 2567158
+Jelzet: TM 2.970, TM 2.970
+
