@@ -1,5 +1,6 @@
 # 1 ----------------------------------------------------------------
 
+print("\n\n---------------------------------")
 def counter():
 
     with open('source/output.txt', "r", encoding= "utf-8") as file:
@@ -28,11 +29,12 @@ def counter():
             if i.startswith('852'):
                 storage_label += 1
 
-        print("Raktári jelzet:", storage_label, "\n---------------------------------\n")
+        print("Raktári jelzet:", storage_label)
 
 counter()
 # 2 ----------------------------------------------------------------
 
+print("\n\n---------------------------------")
 with open('source/output.txt', "r", encoding= "utf-8") as file:
         text = file.read()
 
@@ -42,10 +44,30 @@ with open('source/output.txt', "r", encoding= "utf-8") as file:
             if i.startswith('001'):
                 records += 1 
 
-        print("Rekord azonosítók:", records, "\n---------------------------------\n")
+        print("Rekord azonosítók:", records)
 
 # 3 ----------------------------------------------------------------
 
+print("\n\n---------------------------------")
+def label():
+    with open('source/output.txt', "r", encoding= "utf-8") as file:
+        lines = file.readlines()
+
+        labels = []
+
+        for i in lines:
+            if i.count("001") > 0 and i.count(" 001") == 0 and i.count(".001") == 0:
+                i = int(i.replace("001 ", ""))
+                labels.append(i)
+
+        labels.sort()
+
+        print("Azonosítók:")
+
+        for i in labels:
+            print(f"{i},")
+
+label()
 
 
 # 4 ----------------------------------------------------------------
@@ -54,6 +76,7 @@ with open('source/output.txt', "r", encoding= "utf-8") as file:
 
 # 5 ----------------------------------------------------------------
 
+print("\n\n---------------------------------")
 def date():
     with open('source/output.txt', "r", encoding= "utf-8") as file:
 
@@ -75,7 +98,7 @@ def date():
                 second = i[13:15]
 
             
-        print("\nIdőrendben:\n")
+        print("Időrendben:\n")
         for i in date_sorted:
             
             year = i[1:5]
