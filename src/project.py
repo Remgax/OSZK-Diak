@@ -170,36 +170,37 @@ y = int(input("Adjon meg egy számot 1-6-ig:\n\n"))
 
 def function():
 
+    print("\n",10*"-")
 
-    x = int(input("Adjon meg egy számot 1-6-ig:\n\n"))
+    x = int(input("Adjon meg egy számot 1-6-ig:\n"))
 
 
     if x == 1:
-        a()
+        print("\n",10*"-"),a(), function()
     elif x == 2:
-        b()
+        print("\n",10*"-"),b(), function()
     elif x == 3:
-        c()
+        print("\n",10*"-"),c(), function()
     elif x == 4:
-        d()
+        print("\n",10*"-"),d(), function()
     elif x == 5:
-        e()
+        print("\n",10*"-"),e(), function()
     elif x == 6:
         quit()
     else:
-        function()
+        print("\n",10*"-"),function()
 
 if y == 1:
-    a()
+    print("\n",10*"-"),a(), function()
 elif y == 2:
-    b()
+    print("\n",10*"-"),b(), function()
 elif y == 3:
-    c()
+    print("\n",10*"-"),c(), function()
 elif y == 4:
-    d()
+    print("\n",10*"-"),d(), function()
 elif y == 5:
-    e()
+    print("\n",10*"-"),e(), function()
 elif y == 6:
-    quit()
+    quit
 else:
-    function()
+    print("\n",10*"-"),function()
