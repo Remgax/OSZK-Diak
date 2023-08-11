@@ -127,8 +127,6 @@ def d():
                 print(f"Azonosító: {records[count]}\nJelzet: {storage_label[count][0]}, {storage_label[count][-1]}\n\n")
             count += 1
 
-
-
 # 5 ----------------------------------------------------------------
 
 def e():
@@ -164,13 +162,8 @@ def e():
 
                 print(f"{year}. {month}. {day}. {hour}:{minute}:{second}")
 
-# 6 ----------------------------------------------------------------
 
-#KILÉPÉS
 
-# 7 ----------------------------------------------------------------
-
-#ÚJRAKEZD
 
 y = int(input("Adjon meg egy számot 1-6-ig:\n\n"))
 
@@ -209,4 +202,4 @@ elif y == 5:
 elif y == 6:
     print("Kilépés")
 else:
-    print(":(")
+    function()
