@@ -185,7 +185,7 @@ def function():
     elif x == 5:
         e()
     elif x == 6:
-        print("Kilépés")
+        quit()
     else:
         function()
 
@@ -200,6 +200,6 @@ elif y == 4:
 elif y == 5:
     e()
 elif y == 6:
-    print("Kilépés")
+    quit()
 else:
     function()
